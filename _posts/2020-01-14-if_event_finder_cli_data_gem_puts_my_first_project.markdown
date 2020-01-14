@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "if event_finder == cli_data_gem puts "My first Project!!!""
-date:       2020-01-14 05:14:15 +0000
+title:      "if event_finder == cli_data_gem puts "My first Project!!""
+date:       2020-01-14 00:14:16 -0500
 permalink:  if_event_finder_cli_data_gem_puts_my_first_project
 ---
 
