@@ -4,11 +4,10 @@ title: Jordan Long's Blog
 header-img: img/home-bg.png
 email: jordanleelong5@gmail.com
 copyright_name: Jordan Long
-description: > # this means to ignore newlines until "baseurl:"
-  Software engineering at Flaitron
+description: Software engineering at Flaitron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: WebDevJordan
-github_username:  JordanLong1
+github_username: JordanLong1
 
 # Build settings
 markdown: kramdown
