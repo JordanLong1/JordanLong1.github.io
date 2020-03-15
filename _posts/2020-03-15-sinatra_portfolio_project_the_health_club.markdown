@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Sinatra Portfolio project "The Health Club""
-date:       2020-03-15 21:28:40 +0000
+title:      "Sinatra Portfolio project The Health Club"
+date:       2020-03-15 17:28:41 -0400
 permalink:  sinatra_portfolio_project_the_health_club
 ---
 
