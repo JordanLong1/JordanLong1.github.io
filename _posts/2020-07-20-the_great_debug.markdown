@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Great Debug"
-date:       2020-07-20 07:24:08 +0000
+date:       2020-07-20 03:24:09 -0400
 permalink:  the_great_debug
 ---
 
@@ -31,12 +31,13 @@ Next is where the real "fun" began, when I would hit the minus button of that pa
                     parentDiv.removeChild(foundDiv)
                 } 
 
+``
 
 
 After an intense debug session this was one of those shoot out of the chair super fast yelling with your hands in the air bug fixes. Considering it was my last major bug to fix until completing my project maybe that had a little bit to do with the celebration but if you havent experienced the big celebration bug fix I promise you that you will some day. 
 
 
 
-`
+
 
 
